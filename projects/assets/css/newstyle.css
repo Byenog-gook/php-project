@@ -1,0 +1,25 @@
+#registerbutton
+{
+  display:block;
+  float:right;
+}
+
+
+.form-input > a{
+  float:right;
+}
+
+.loginbutton > #logbutton {
+    display:block;
+  float:left;
+}
+
+#boardbutton {
+  display:block;
+  float:right;
+}
+
+#editboard_submit {
+  display:block;
+  float:right;
+}
